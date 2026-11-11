@@ -1,0 +1,2781 @@
+{
+  "CASE-1782669750": {
+    "case_id": "CASE-1782669750",
+    "case_name": "Hazard Scan",
+    "description": null,
+    "officer_name": "Officer Jones",
+    "status": "Completed",
+    "risk_level": "High",
+    "risk_score": 75,
+    "created_at": "2026-06-28 18:02:30.165119",
+    "updated_at": "2026-06-28 18:02:30.165328",
+    "videos": [],
+    "objects_count": 0,
+    "people_count": 0,
+    "vehicles_count": 0,
+    "weapons_count": 0,
+    "processing_time_seconds": 0.0
+  },
+  "CASE-1782670340": {
+    "case_id": "CASE-1782670340",
+    "case_name": "Hazard Scan",
+    "description": null,
+    "officer_name": "Officer Jones",
+    "status": "Completed",
+    "risk_level": "High",
+    "risk_score": 75,
+    "created_at": "2026-06-28 18:12:20.507030",
+    "updated_at": "2026-06-28 18:12:20.507321",
+    "videos": [],
+    "objects_count": 0,
+    "people_count": 0,
+    "vehicles_count": 0,
+    "weapons_count": 0,
+    "processing_time_seconds": 0.0
+  },
+  "CASE-1782671329": {
+    "case_id": "CASE-1782671329",
+    "case_name": "robbery",
+    "description": "found suspicuous",
+    "officer_name": "Srikanth",
+    "status": "Failed",
+    "risk_level": "Low",
+    "risk_score": 0,
+    "created_at": "2026-06-28 18:28:49.009670",
+    "updated_at": "2026-06-28 18:29:20.368072",
+    "videos": [
+      "CASE-1782671329_210.mp4"
+    ],
+    "objects_count": 0,
+    "people_count": 0,
+    "vehicles_count": 0,
+    "weapons_count": 0,
+    "processing_time_seconds": 0.0,
+    "thumbnail_url": "/static/processed/CASE-1782671329_210_thumb.jpg",
+    "video_filename": "CASE-1782671329_210.mp4",
+    "current_stage": "FAILED",
+    "errors": [
+      "At key 'current_stage': Can receive only one value per step. Use an Annotated key to handle multiple values.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_CONCURRENT_GRAPH_UPDATE"
+    ]
+  },
+  "CASE-1782671887": {
+    "case_id": "CASE-1782671887",
+    "case_name": "robbery",
+    "description": "found suspicuous",
+    "officer_name": "Srikanth",
+    "status": "Failed",
+    "risk_level": "Low",
+    "risk_score": 0,
+    "created_at": "2026-06-28 18:38:07.381541",
+    "updated_at": "2026-06-28 18:38:09.346287",
+    "videos": [
+      "CASE-1782671887_769.mp4"
+    ],
+    "objects_count": 0,
+    "people_count": 0,
+    "vehicles_count": 0,
+    "weapons_count": 0,
+    "processing_time_seconds": 0.0,
+    "thumbnail_url": "/static/processed/CASE-1782671887_769_thumb.jpg",
+    "video_filename": "CASE-1782671887_769.mp4",
+    "current_stage": "FAILED",
+    "errors": [
+      "At key 'current_stage': Can receive only one value per step. Use an Annotated key to handle multiple values.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_CONCURRENT_GRAPH_UPDATE"
+    ]
+  },
+  "CASE-1782671940": {
+    "case_id": "CASE-1782671940",
+    "case_name": "kidnap",
+    "description": "found suspicuous",
+    "officer_name": "Srikanth",
+    "status": "Failed",
+    "risk_level": "Low",
+    "risk_score": 0,
+    "created_at": "2026-06-28 18:39:00.299684",
+    "updated_at": "2026-06-28 18:39:02.223958",
+    "videos": [
+      "CASE-1782671940_822.mp4"
+    ],
+    "objects_count": 0,
+    "people_count": 0,
+    "vehicles_count": 0,
+    "weapons_count": 0,
+    "processing_time_seconds": 0.0,
+    "thumbnail_url": "/static/processed/CASE-1782671940_822_thumb.jpg",
+    "video_filename": "CASE-1782671940_822.mp4",
+    "current_stage": "FAILED",
+    "errors": [
+      "At key 'current_stage': Can receive only one value per step. Use an Annotated key to handle multiple values.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_CONCURRENT_GRAPH_UPDATE"
+    ]
+  },
+  "CASE-1782672222": {
+    "case_id": "CASE-1782672222",
+    "case_name": "Hazard Scan",
+    "description": null,
+    "officer_name": "Officer Jones",
+    "status": "Completed",
+    "risk_level": "High",
+    "risk_score": 75,
+    "created_at": "2026-06-28 18:43:42.477758",
+    "updated_at": "2026-06-28 18:43:42.478303",
+    "videos": [],
+    "objects_count": 0,
+    "people_count": 0,
+    "vehicles_count": 0,
+    "weapons_count": 0,
+    "processing_time_seconds": 0.0
+  },
+  "CASE-1782672286": {
+    "case_id": "CASE-1782672286",
+    "case_name": "murder",
+    "description": "kidnap and murder",
+    "officer_name": "srikanth",
+    "status": "Failed",
+    "risk_level": "Low",
+    "risk_score": 0,
+    "created_at": "2026-06-28 18:44:46.183709",
+    "updated_at": "2026-06-28 18:44:50.044489",
+    "videos": [
+      "CASE-1782672286_69.mp4"
+    ],
+    "objects_count": 0,
+    "people_count": 0,
+    "vehicles_count": 0,
+    "weapons_count": 0,
+    "processing_time_seconds": 0.0,
+    "thumbnail_url": "/static/processed/CASE-1782672286_69_thumb.jpg",
+    "video_filename": "CASE-1782672286_69.mp4",
+    "current_stage": "FAILED",
+    "errors": [
+      "'dict' object has no attribute 'label'"
+    ]
+  },
+  "CASE-1783052688": {
+    "case_id": "CASE-1783052688",
+    "case_name": "Hazard Scan",
+    "description": null,
+    "officer_name": "Officer Jones",
+    "status": "Completed",
+    "risk_level": "High",
+    "risk_score": 75,
+    "created_at": "2026-07-03 04:24:48.775073",
+    "updated_at": "2026-07-03 04:24:48.775506",
+    "videos": [],
+    "objects_count": 0,
+    "people_count": 0,
+    "vehicles_count": 0,
+    "weapons_count": 0,
+    "processing_time_seconds": 0.0
+  },
+  "CASE-1783053271": {
+    "case_id": "CASE-1783053271",
+    "case_name": "robbery",
+    "description": "hii",
+    "officer_name": "Officer Jones",
+    "status": "Completed",
+    "risk_level": "Medium",
+    "risk_score": 40,
+    "created_at": "2026-07-03 04:34:31.562779",
+    "updated_at": "2026-07-03 04:34:50.510300",
+    "videos": [
+      "CASE-1783053271_575.mp4"
+    ],
+    "objects_count": 2,
+    "people_count": 153,
+    "vehicles_count": 1,
+    "weapons_count": 0,
+    "processing_time_seconds": 1.205,
+    "thumbnail_url": "/static/processed/CASE-1783053271_575_thumb.jpg",
+    "video_filename": "CASE-1783053271_575.mp4",
+    "current_stage": "Completed",
+    "timeline": [
+      {
+        "timestamp": 0.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 3.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 3.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 4.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 4.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 5.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 6.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 6.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 6.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 6.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 6.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 7.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 7.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 7.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 7.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 8.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 8.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 8.0,
+        "event_type": "Vehicle Sighted",
+        "description": "Red Hatchback identified (License Plate: 9JKL34)",
+        "risk_level": "Medium",
+        "confidence": 0.99,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 12.2,
+        "event_type": "Object Log",
+        "description": "Detection: backpack found in active viewport frame",
+        "risk_level": "Low",
+        "confidence": 0.95,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 21.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 22.5,
+        "event_type": "Object Log",
+        "description": "Detection: package found in active viewport frame",
+        "risk_level": "Low",
+        "confidence": 0.91,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 28.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 28.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 28.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 29.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 29.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 29.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 30.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 32.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 33.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 34.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 34.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 36.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 38.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 43.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 43.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 45.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 45.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 48.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 61.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 62.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 63.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 71.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 72.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 72.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 73.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 73.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 74.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 74.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 75.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 75.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 75.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 75.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 76.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 76.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 77.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 77.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 78.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 79.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 80.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 81.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 81.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 83.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 84.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 87.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 88.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 88.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 89.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 90.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 91.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 91.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 92.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 92.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 95.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 95.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 95.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 96.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 96.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 97.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 97.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 98.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 98.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 99.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 99.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 107.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 108.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 108.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 109.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 110.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 113.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 113.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 117.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 117.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 118.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 121.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 135.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 137.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 137.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 140.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 140.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 141.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 141.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 141.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 141.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 141.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 141.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_6 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 142.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 142.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 142.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 142.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 142.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 142.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_6 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 143.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 143.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 144.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 146.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 147.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 148.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 149.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 149.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 149.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 150.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 150.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 151.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 151.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 151.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 151.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 152.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 152.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 152.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 153.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 154.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 154.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 155.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 155.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 155.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 156.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 156.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 157.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 157.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 158.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 159.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 160.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 161.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 161.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 161.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 162.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 162.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 162.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 162.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 162.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 163.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 164.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 165.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 165.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      },
+      {
+        "timestamp": 165.0,
+        "event_type": "Subject Sighted",
+        "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+        "risk_level": "Low",
+        "confidence": 0.88,
+        "snapshot_path": null
+      }
+    ],
+    "speech_transcript": [
+      {
+        "speaker": "Speaker 1",
+        "text": "Subject is arriving at the northwest gate perimeter.",
+        "start_time": 3.0,
+        "end_time": 7.5,
+        "confidence": 0.95
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Understood. Keep the visual camera locked onto the backpack.",
+        "start_time": 12.2,
+        "end_time": 16.8,
+        "confidence": 0.92
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Subject is transferring an unidentified package to another individual.",
+        "start_time": 22.0,
+        "end_time": 27.4,
+        "confidence": 0.89
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Get local patrol dispatch on the line immediately.",
+        "start_time": 32.5,
+        "end_time": 36.0,
+        "confidence": 0.94
+      }
+    ],
+    "ocr_text": [
+      {
+        "text": "ZONE B CAM 12",
+        "timestamp": 0.5,
+        "confidence": 0.99,
+        "bounding_box": null
+      },
+      {
+        "text": "LICENSE PLATE: 9JKL34",
+        "timestamp": 8.2,
+        "confidence": 0.98,
+        "bounding_box": null
+      },
+      {
+        "text": "AUTHORIZED STAFF ONLY",
+        "timestamp": 14.0,
+        "confidence": 0.94,
+        "bounding_box": null
+      },
+      {
+        "text": "NO TRESPASSING",
+        "timestamp": 30.0,
+        "confidence": 0.97,
+        "bounding_box": null
+      }
+    ],
+    "report": {
+      "case_id": "CASE-1783053271",
+      "executive_summary": "Forensic analysis of case evidence video. The investigation is evaluated with a threat level of Medium (Threat Score: 40/100) due to several risk events:\n- Active investigation initiated\n- Multiple subjects detected on site (153)\n- Associated vehicle(s) logged in crime perimeter",
+      "metadata": {
+        "filename": "CASE-1783053271_575.mp4",
+        "file_size": 29204579,
+        "duration_seconds": 169.0,
+        "resolution": "1920x1080",
+        "fps": 24.0,
+        "format": "MP4",
+        "thumbnail_path": null,
+        "created_at": "2026-07-03 04:34:50.398617"
+      },
+      "timeline": [
+        {
+          "timestamp": 0.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 3.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 3.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 4.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 4.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 5.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 6.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 6.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 6.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 6.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 6.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 7.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 7.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 7.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 7.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 8.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 8.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 8.0,
+          "event_type": "Vehicle Sighted",
+          "description": "Red Hatchback identified (License Plate: 9JKL34)",
+          "risk_level": "Medium",
+          "confidence": 0.99,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 12.2,
+          "event_type": "Object Log",
+          "description": "Detection: backpack found in active viewport frame",
+          "risk_level": "Low",
+          "confidence": 0.95,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 21.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 22.5,
+          "event_type": "Object Log",
+          "description": "Detection: package found in active viewport frame",
+          "risk_level": "Low",
+          "confidence": 0.91,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 28.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 28.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 28.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 29.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 29.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 29.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 30.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 32.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 33.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 34.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 34.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 36.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 38.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 43.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 43.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 45.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 45.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 48.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 61.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 62.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 63.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 71.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 72.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 72.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 73.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 73.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 74.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 74.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 75.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 75.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 75.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 75.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 76.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 76.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 77.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 77.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 78.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 79.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 80.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 81.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 81.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 83.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 84.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 87.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 88.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 88.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 89.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 90.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 91.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 91.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 92.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 92.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 95.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 95.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 95.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 96.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 96.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 97.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 97.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 98.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 98.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 99.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 99.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 107.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 108.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 108.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 109.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 110.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 113.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 113.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 117.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 117.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 118.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 121.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 135.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 137.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 137.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 140.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 140.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 141.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 141.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 141.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 141.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 141.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 141.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_6 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 142.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 142.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 142.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 142.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 142.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 142.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_6 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 143.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 143.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 144.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 146.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 147.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 148.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 149.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 149.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 149.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 150.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 150.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 151.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 151.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 151.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 151.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 152.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 152.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 152.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 153.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 154.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 154.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 155.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 155.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 155.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 156.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 156.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 157.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 157.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 158.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 159.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 160.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 161.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 161.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 161.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 162.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 162.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 162.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 162.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 162.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 163.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 164.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 165.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 165.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        },
+        {
+          "timestamp": 165.0,
+          "event_type": "Subject Sighted",
+          "description": "Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject)",
+          "risk_level": "Low",
+          "confidence": 0.88,
+          "snapshot_path": null
+        }
+      ],
+      "transcript_summary": "Speech segments transcribed and vector indexed for deep chat querying.",
+      "risk_assessment": {
+        "overall_score": 40,
+        "risk_level": "Medium",
+        "factors": [
+          "Active investigation initiated",
+          "Multiple subjects detected on site (153)",
+          "Associated vehicle(s) logged in crime perimeter"
+        ],
+        "confidence": 0.92
+      },
+      "recommendations": [
+        "Isolate the suspect vehicle (license plate detected) using automated license plate readers (ALPR).",
+        "Enhance biometric logs on entry/exit gate zones.",
+        "Cross-verify weapon profile against weapon registration databases.",
+        "Export this evidence log file to central district database."
+      ],
+      "generated_at": "2026-07-03 04:34:50.399000",
+      "pdf_path": "/Users/kesanisrikanthreddy/Desktop/video-evidence/data/processed/forensic_report_CASE-1783053271.pdf"
+    }
+  }
+}

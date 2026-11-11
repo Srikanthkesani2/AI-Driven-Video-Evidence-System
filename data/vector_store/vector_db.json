@@ -1,0 +1,2664 @@
+[
+  {
+    "case_id": "CASE-1783053271",
+    "content": "[32.5s - 36.0s] Speaker Speaker 2: Get local patrol dispatch on the line immediately.",
+    "metadata": {
+      "type": "speech",
+      "speaker": "Speaker 2",
+      "start_time": 32.5,
+      "timestamp": 32.5
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Object detected: backpack (Confidence: 0.95)",
+    "metadata": {
+      "type": "object",
+      "label": "backpack",
+      "timestamp": 12.2
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Object detected: package (Confidence: 0.91)",
+    "metadata": {
+      "type": "object",
+      "label": "package",
+      "timestamp": 22.5
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 0.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 3.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 3.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 4.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 4.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 5.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 6.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 6.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 6.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_4) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_4",
+      "timestamp": 6.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_5) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_5",
+      "timestamp": 6.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 7.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 7.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 7.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_4) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_4",
+      "timestamp": 7.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 8.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 8.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 21.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 28.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 28.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 28.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 29.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 29.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 29.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 30.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 32.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 33.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 34.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 34.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 36.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 38.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 43.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 43.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 45.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 45.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 48.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 61.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 62.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 63.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 71.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 72.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 72.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 73.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 73.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 74.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 74.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 75.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 75.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 75.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_4) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_4",
+      "timestamp": 75.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 76.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 76.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 77.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 77.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 78.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 79.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 80.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 81.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 81.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 83.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 84.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 87.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 88.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 88.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 89.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 90.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 91.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 91.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 92.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 92.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 95.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 95.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 95.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 96.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 96.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 97.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 97.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 98.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 98.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 99.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 99.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 107.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 108.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 108.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 109.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 110.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 113.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 113.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 117.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 117.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 118.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 121.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 135.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 137.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 137.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 140.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 140.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_4) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_4",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_5) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_5",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_6) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_6",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_4) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_4",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_5) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_5",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_6) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_6",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 143.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 143.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 144.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 146.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 147.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 148.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 149.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 149.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 149.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 150.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 150.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 151.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 151.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 151.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_4) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_4",
+      "timestamp": 151.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 152.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 152.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 152.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 153.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 154.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 154.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 155.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 155.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 155.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 156.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 156.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 157.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 157.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 158.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 159.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 160.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 161.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 161.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 161.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 162.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 162.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 162.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_4) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_4",
+      "timestamp": 162.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_5) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_5",
+      "timestamp": 162.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 163.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 164.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_1) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_1",
+      "timestamp": 165.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_2) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_2",
+      "timestamp": 165.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Person detected (ID: Subject_3) with attributes: {'clothing': 'dark jacket', 'role': 'Unverified Subject'}",
+    "metadata": {
+      "type": "person",
+      "person_id": "Subject_3",
+      "timestamp": 165.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Vehicle detected (ID: Vehicle_01) license plate: 9JKL34, color: red, type: Hatchback",
+    "metadata": {
+      "type": "vehicle",
+      "vehicle_id": "Vehicle_01",
+      "timestamp": 8.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 0.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 0.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 3.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 3.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 3.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 3.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 4.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 4.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 4.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 4.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 5.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 5.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 6.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 6.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 6.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 6.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 6.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 6.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 6.0s: Subject Sighted - Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 6.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 6.0s: Subject Sighted - Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 6.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 7.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 7.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 7.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 7.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 7.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 7.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 7.0s: Subject Sighted - Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 7.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 8.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 8.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 8.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 8.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 8.0s: Vehicle Sighted - Red Hatchback identified (License Plate: 9JKL34) (Risk Level: Medium)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 8.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 12.2s: Object Log - Detection: backpack found in active viewport frame (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 12.2
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 21.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 21.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 22.5s: Object Log - Detection: package found in active viewport frame (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 22.5
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 28.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 28.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 28.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 28.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 28.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 28.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 29.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 29.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 29.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 29.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 29.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 29.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 30.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 30.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 32.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 32.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 33.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 33.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 34.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 34.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 34.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 34.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 36.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 36.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 38.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 38.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 43.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 43.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 43.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 43.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 45.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 45.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 45.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 45.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 48.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 48.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 61.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 61.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 62.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 62.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 63.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 63.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 71.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 71.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 72.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 72.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 72.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 72.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 73.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 73.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 73.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 73.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 74.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 74.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 74.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 74.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 75.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 75.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 75.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 75.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 75.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 75.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 75.0s: Subject Sighted - Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 75.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 76.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 76.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 76.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 76.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 77.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 77.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 77.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 77.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 78.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 78.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 79.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 79.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 80.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 80.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 81.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 81.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 81.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 81.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 83.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 83.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 84.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 84.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 87.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 87.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 88.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 88.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 88.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 88.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 89.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 89.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 90.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 90.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 91.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 91.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 91.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 91.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 92.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 92.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 92.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 92.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 95.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 95.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 95.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 95.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 95.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 95.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 96.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 96.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 96.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 96.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 97.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 97.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 97.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 97.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 98.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 98.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 98.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 98.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 99.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 99.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 99.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 99.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 107.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 107.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 108.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 108.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 108.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 108.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 109.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 109.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 110.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 110.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 113.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 113.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 113.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 113.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 117.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 117.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 117.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 117.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 118.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 118.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 121.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 121.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 135.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 135.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 137.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 137.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 137.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 137.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 140.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 140.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 140.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 140.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 141.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 141.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 141.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 141.0s: Subject Sighted - Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 141.0s: Subject Sighted - Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 141.0s: Subject Sighted - Subject Subject_6 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 141.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 142.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 142.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 142.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 142.0s: Subject Sighted - Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 142.0s: Subject Sighted - Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 142.0s: Subject Sighted - Subject Subject_6 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 142.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 143.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 143.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 143.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 143.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 144.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 144.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 146.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 146.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 147.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 147.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 148.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 148.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 149.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 149.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 149.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 149.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 149.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 149.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 150.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 150.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 150.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 150.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 151.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 151.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 151.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 151.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 151.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 151.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 151.0s: Subject Sighted - Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 151.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 152.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 152.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 152.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 152.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 152.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 152.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 153.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 153.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 154.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 154.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 154.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 154.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 155.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 155.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 155.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 155.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 155.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 155.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 156.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 156.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 156.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 156.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 157.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 157.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 157.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 157.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 158.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 158.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 159.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 159.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 160.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 160.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 161.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 161.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 161.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 161.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 161.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 161.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 162.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 162.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 162.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 162.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 162.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 162.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 162.0s: Subject Sighted - Subject Subject_4 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 162.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 162.0s: Subject Sighted - Subject Subject_5 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 162.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 163.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 163.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 164.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 164.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 165.0s: Subject Sighted - Subject Subject_1 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 165.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 165.0s: Subject Sighted - Subject Subject_2 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 165.0
+    }
+  },
+  {
+    "case_id": "CASE-1783053271",
+    "content": "Timeline Event at 165.0s: Subject Sighted - Subject Subject_3 logged wearing dark jacket (Role: Unverified Subject) (Risk Level: Low)",
+    "metadata": {
+      "type": "timeline",
+      "timestamp": 165.0
+    }
+  }
+]

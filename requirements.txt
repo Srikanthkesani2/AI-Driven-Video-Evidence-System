@@ -1,0 +1,17 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0
+pydantic-settings>=2.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.2
+langgraph>=0.0.15
+pyyaml>=6.0
+python-multipart>=0.0.6
+reportlab>=4.0.0
+opencv-python-headless>=4.7.0.72
+numpy>=1.24.0
+jinja2>=3.1.2
+httpx>=0.24.1
+python-dotenv>=1.0.0
+pytest>=7.3.1

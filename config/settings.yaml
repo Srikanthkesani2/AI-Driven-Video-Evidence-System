@@ -1,0 +1,28 @@
+app:
+  name: "AI-Driven Video Evidence Analysis System"
+  host: "0.0.0.0"
+  port: 8000
+  debug: true
+  upload_dir: "data/uploads"
+  output_dir: "data/processed"
+
+azure:
+  api_key: ""
+  endpoint: ""
+  video_indexer_id: ""
+  video_indexer_location: "trial"
+  openai_api_key: ""
+  openai_api_version: "2023-05-15"
+  openai_deployment: "gpt-4"
+  openai_embeddings_deployment: "text-embedding-ada-002"
+
+databricks:
+  host: ""
+  token: ""
+  cluster_id: ""
+  workspace_path: "/Shared/video_evidence_etl"
+
+langchain:
+  vector_store_path: "data/vector_store"
+  chunk_size: 1000
+  chunk_overlap: 200

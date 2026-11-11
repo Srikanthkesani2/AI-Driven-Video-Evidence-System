@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Driven Force - Enterprise AI Forensic Intelligence Platform</title>
+    
+    <!-- Premium Fonts & Icons -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Chart.js for High-End Dashboard Visualizations -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Custom Theme Stylesheet -->
+    <link rel="stylesheet" href="/static/css/dashboard.css">
+</head>
+<body class="dark-theme">
+    <div class="app-container">
+        
+        <!-- ================= LEFT SIDEBAR ================= -->
+        <aside class="sidebar">
+            <div class="sidebar-brand">
+                <i class="fa-solid fa-shield-halved brand-icon"></i>
+                <div class="brand-text">
+                    <span class="brand-title">AI-DRIVEN FORCE</span>
+                    <span class="brand-subtitle">FORENSIC PLATFORM</span>
+                </div>
+            </div>
+            
+            <nav class="sidebar-menu">
+                <a href="#dashboard" class="menu-item active" data-target="screen-dashboard">
+                    <i class="fa-solid fa-chart-line"></i> <span>Dashboard</span>
+                </a>
+                <a href="#upload" class="menu-item" data-target="screen-upload">
+                    <i class="fa-solid fa-cloud-arrow-up"></i> <span>Upload Evidence</span>
+                </a>
+                <a href="#analysis" class="menu-item" data-target="screen-analysis">
+                    <i class="fa-solid fa-video"></i> <span>Video Analysis</span>
+                </a>
+                <a href="#timeline" class="menu-item" data-target="screen-timeline">
+                    <i class="fa-solid fa-timeline"></i> <span>Timeline</span>
+                </a>
+                <a href="#report" class="menu-item" data-target="screen-report">
+                    <i class="fa-solid fa-file-invoice"></i> <span>Investigation Report</span>
+                </a>
+                <a href="#chat" class="menu-item" data-target="screen-chat">
+                    <i class="fa-solid fa-comment-medical"></i> <span>AI Chat Assistant</span>
+                </a>
+                <a href="#analytics" class="menu-item" data-target="screen-analytics">
+                    <i class="fa-solid fa-chart-pie"></i> <span>Analytics</span>
+                </a>
+                <a href="#settings" class="menu-item" data-target="screen-settings">
+                    <i class="fa-solid fa-sliders"></i> <span>Settings</span>
+                </a>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <div class="officer-profile">
+                    <div class="profile-avatar"><i class="fa-solid fa-user-tie"></i></div>
+                    <div class="profile-info">
+                        <span class="officer-name" id="current-officer">Officer Jones</span>
+                        <span class="officer-rank">Lead Investigator</span>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- ================= MAIN VIEWPORT ================= -->
+        <main class="main-content">
+            
+            <!-- TOP BAR -->
+            <header class="topbar">
+                <div class="topbar-search">
+                    <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                    <input type="text" placeholder="Search case ID, evidence metadata..." class="search-input">
+                </div>
+                <div class="topbar-actions">
+                    <div class="status-indicator">
+                        <span class="indicator-dot online"></span>
+                        <span class="indicator-label">AI Engine Connected</span>
+                    </div>
+                    <div class="notification-bell">
+                        <i class="fa-solid fa-bell"></i>
+                        <span class="badge">2</span>
+                    </div>
+                </div>
+            </header>
+
+            <!-- SCREEN: DASHBOARD -->
+            <section id="screen-dashboard" class="app-screen active">
+                <div class="screen-header">
+                    <div>
+                        <h1 class="screen-title">Investigative Dashboard</h1>
+                        <p class="screen-subtitle">Real-time system telemetry and criminal metrics summary</p>
+                    </div>
+                    <button class="btn btn-primary" onclick="window.location.hash = '#upload'">
+                        <i class="fa-solid fa-plus"></i> New Investigation
+                    </button>
+                </div>
+                
+                <!-- Telemetry Cards -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon purple"><i class="fa-solid fa-video"></i></div>
+                        <div class="stat-value" id="stat-videos">0</div>
+                        <div class="stat-label">Videos Processed</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon blue"><i class="fa-solid fa-circle-notch fa-spin"></i></div>
+                        <div class="stat-value" id="stat-active">0</div>
+                        <div class="stat-label">Active Cases</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon orange"><i class="fa-solid fa-triangle-exclamation"></i></div>
+                        <div class="stat-value" id="stat-events">0</div>
+                        <div class="stat-label">Suspicious Events</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon red"><i class="fa-solid fa-skull-crossbones"></i></div>
+                        <div class="stat-value" id="stat-high-risk">0</div>
+                        <div class="stat-label">High Risk Cases</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon green"><i class="fa-solid fa-user-ninja"></i></div>
+                        <div class="stat-value" id="stat-people">0</div>
+                        <div class="stat-label">People Detected</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon teal"><i class="fa-solid fa-car"></i></div>
+                        <div class="stat-value" id="stat-vehicles">0</div>
+                        <div class="stat-label">Vehicles Logged</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon danger"><i class="fa-solid fa-gun"></i></div>
+                        <div class="stat-value" id="stat-weapons">0</div>
+                        <div class="stat-label">Weapons Detected</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon gray"><i class="fa-solid fa-stopwatch"></i></div>
+                        <div class="stat-value" id="stat-time">0s</div>
+                        <div class="stat-label">Processing Time</div>
+                    </div>
+                </div>
+
+                <!-- Dashboard Charts -->
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h3>Evidence Processing Trends</h3>
+                        <canvas id="chart-evidence-date"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Risk Level Distribution</h3>
+                        <div class="chart-doughnut-container">
+                            <canvas id="chart-risk-dist"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Cases List Table -->
+                <div class="table-card">
+                    <div class="card-header">
+                        <h3>Recent Forensic Investigations</h3>
+                        <div class="cases-filter">
+                            <select id="case-select-filter" class="form-input">
+                                <option value="all">All Cases</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="table-responsive">
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Case ID</th>
+                                    <th>Case Name</th>
+                                    <th>Date Created</th>
+                                    <th>Risk Profile</th>
+                                    <th>Status</th>
+                                    <th>Officer</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="cases-table-body">
+                                <tr>
+                                    <td colspan="7" class="loading-td"><i class="fa-solid fa-circle-notch fa-spin"></i> Initializing database...</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SCREEN: UPLOAD -->
+            <section id="screen-upload" class="app-screen">
+                <div class="screen-header">
+                    <div>
+                        <h1 class="screen-title">Upload Evidence File</h1>
+                        <p class="screen-subtitle">Initiate automated forensic scanning and metadata extraction</p>
+                    </div>
+                </div>
+                
+                <div class="upload-split-layout">
+                    <!-- Form Details -->
+                    <div class="card form-card">
+                        <h3>Case Specifications</h3>
+                        <form id="upload-case-form" class="standard-form">
+                            <div class="form-group">
+                                <label for="input-case-name">Case / Reference Name</label>
+                                <input type="text" id="input-case-name" placeholder="E.g., Warehouse Vault Robbery" class="form-input" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="input-officer">Assignee Officer Name</label>
+                                <input type="text" id="input-officer" value="Officer Jones" class="form-input" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="input-desc">Case Brief Description</label>
+                                <textarea id="input-desc" placeholder="Details regarding incident perimeter and context..." rows="4" class="form-input"></textarea>
+                            </div>
+                        </form>
+                    </div>
+
+                    <!-- Drag & Drop Zone -->
+                    <div class="card upload-dropzone-container">
+                        <div class="dropzone" id="drop-zone">
+                            <input type="file" id="file-input" accept=".mp4,.avi,.mov,.mkv" hidden>
+                            <i class="fa-solid fa-folder-open dropzone-icon"></i>
+                            <p class="dropzone-text">Drag & drop evidence video file here</p>
+                            <p class="dropzone-subtext">Supported formats: MP4, AVI, MOV, MKV (Max 200MB)</p>
+                            <button class="btn btn-secondary" onclick="document.getElementById('file-input').click()">Select File</button>
+                        </div>
+                        
+                        <!-- File Preview Detail Card (hidden by default) -->
+                        <div class="file-preview-card hidden" id="file-preview">
+                            <div class="file-meta-header">
+                                <i class="fa-solid fa-file-video file-type-icon"></i>
+                                <div class="file-info-text">
+                                    <span class="file-name" id="preview-filename">evidence_video.mp4</span>
+                                    <span class="file-size" id="preview-filesize">0 MB</span>
+                                </div>
+                                <button class="btn-icon" id="preview-clear"><i class="fa-solid fa-xmark"></i></button>
+                            </div>
+                            <div class="file-meta-detail">
+                                <div class="meta-row">
+                                    <span>Est. Processing Duration:</span>
+                                    <strong id="preview-est-time">Analyzing file...</strong>
+                                </div>
+                            </div>
+                            <button class="btn btn-primary btn-block" id="btn-start-process">
+                                <i class="fa-solid fa-play"></i> Trigger Analysis Pipeline
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Processing Progress Overlay/Screen (activated on upload) -->
+                <div class="processing-overlay hidden" id="processing-view">
+                    <div class="processing-card">
+                        <div class="processing-header">
+                            <h2>Orchestrated AI Workflow Processing...</h2>
+                            <p id="processing-status-label">Extracting frames and speech records...</p>
+                        </div>
+                        
+                        <!-- Timeline Pipeline Stages -->
+                        <div class="workflow-stages-list" id="pipeline-stages">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SCREEN: VIDEO ANALYSIS (INVESTIGATION DASHBOARD) -->
+            <section id="screen-analysis" class="app-screen">
+                <div class="screen-header">
+                    <div>
+                        <h1 class="screen-title">Forensic Video Analysis</h1>
+                        <p class="screen-subtitle">Synchronized multi-modal telemetry and threat investigation viewport</p>
+                    </div>
+                    <div class="case-header-details">
+                        <span class="case-badge" id="analysis-case-id">CASE: SELECT A CASE</span>
+                    </div>
+                </div>
+
+                <div class="analysis-grid">
+                    <!-- Column 1: Video and Timeline -->
+                    <div class="analysis-left-col">
+                        <div class="card video-player-card">
+                            <video id="forensic-video-player" controls width="100%" class="video-player">
+                                <source src="" type="video/mp4" id="video-source">
+                                Your browser does not support the video tag.
+                            </video>
+                            <div class="video-overlay-alerts" id="video-alerts-layer"></div>
+                        </div>
+
+                        <!-- Speech Transcript panel -->
+                        <div class="card transcript-card">
+                            <h3>Speech Transcript Summary</h3>
+                            <div class="transcript-scroller" id="transcript-container">
+                                <p class="placeholder-text">Select an active investigation case to render audio logs.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Column 2: Side panels -->
+                    <div class="analysis-right-col">
+                        <!-- Risk gauges -->
+                        <div class="card risk-card">
+                            <h3>Case Threat Assessment</h3>
+                            <div class="threat-gauge-panel">
+                                <div class="threat-gauge">
+                                    <div class="gauge-center">
+                                        <span class="gauge-value" id="analysis-risk-score">0</span>
+                                        <span class="gauge-max">/100</span>
+                                    </div>
+                                    <div class="gauge-fill-bar" id="gauge-fill"></div>
+                                </div>
+                                <div class="threat-details">
+                                    <span class="threat-level-label" id="analysis-risk-level">LOW</span>
+                                    <span class="threat-description">System threat evaluation score based on detected weaponry and unauthorized subjects.</span>
+                                </div>
+                            </div>
+                            <div class="threat-factors-list" id="analysis-risk-factors">
+                                <!-- Populated dynamically -->
+                            </div>
+                        </div>
+
+                        <!-- Synced Chronology Timeline -->
+                        <div class="card analysis-timeline-card">
+                            <h3>Evidence Chronology</h3>
+                            <div class="timeline-scroller" id="analysis-timeline-container">
+                                <p class="placeholder-text">Select a case to view timeline events.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SCREEN: TIMELINE -->
+            <section id="screen-timeline" class="app-screen">
+                <div class="screen-header">
+                    <div>
+                        <h1 class="screen-title">Forensic Timeline Viewer</h1>
+                        <p class="screen-subtitle">Complete chronological events register with video jump anchors</p>
+                    </div>
+                </div>
+                <div class="card full-width-card">
+                    <div class="timeline-full-header">
+                        <h2 id="timeline-case-title">Case Timeline Chronology</h2>
+                        <p>Selecting any timeline card jumps the forensic player above to that timestamp.</p>
+                    </div>
+                    <div class="timeline-full-list" id="full-timeline-events-list">
+                        <!-- Populated dynamically -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- SCREEN: REPORT -->
+            <section id="screen-report" class="app-screen">
+                <div class="screen-header">
+                    <div>
+                        <h1 class="screen-title">Forensic Investigation Report</h1>
+                        <p class="screen-subtitle">Audit-ready document for law enforcement and legal teams</p>
+                    </div>
+                    <button class="btn btn-secondary" id="btn-export-pdf">
+                        <i class="fa-solid fa-file-pdf"></i> Export Forensic PDF
+                    </button>
+                </div>
+                
+                <div class="card report-card-sheet" id="report-view-sheet">
+                    <div class="report-watermark">CONFIDENTIAL // EVIDENCE LOG</div>
+                    
+                    <div class="report-header">
+                        <div class="report-header-left">
+                            <h2>FORENSIC INVESTIGATION & AUDIT REPORT</h2>
+                            <p class="report-case-ref" id="rep-case-id">CASE ID: CASE-XXXXXXXXXX</p>
+                        </div>
+                        <div class="report-header-right">
+                            <span class="report-stamp" id="rep-stamp-level">LOW RISK</span>
+                        </div>
+                    </div>
+                    
+                    <hr class="report-divider">
+                    
+                    <div class="report-section">
+                        <h3>1. Executive Summary</h3>
+                        <p id="rep-summary" class="report-text">Select a case to compile the forensic report summary.</p>
+                    </div>
+
+                    <div class="report-section">
+                        <h3>2. Evidence Video Metadata</h3>
+                        <div class="report-meta-table">
+                            <div class="meta-table-row">
+                                <span>Filename</span>
+                                <strong id="rep-meta-name">-</strong>
+                            </div>
+                            <div class="meta-table-row">
+                                <span>Resolution</span>
+                                <strong id="rep-meta-res">-</strong>
+                            </div>
+                            <div class="meta-table-row">
+                                <span>Duration</span>
+                                <strong id="rep-meta-dur">-</strong>
+                            </div>
+                            <div class="meta-table-row">
+                                <span>FPS</span>
+                                <strong id="rep-meta-fps">-</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="report-section">
+                        <h3>3. Detections & Aggregated Assets</h3>
+                        <div class="report-counts-grid">
+                            <div class="count-box">
+                                <span class="box-num" id="rep-count-people">0</span>
+                                <span class="box-lbl">People Sighted</span>
+                            </div>
+                            <div class="count-box">
+                                <span class="box-num" id="rep-count-vehicles">0</span>
+                                <span class="box-lbl">Vehicles Logged</span>
+                            </div>
+                            <div class="count-box">
+                                <span class="box-num" id="rep-count-weapons">0</span>
+                                <span class="box-lbl">Weapons Flagged</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="report-section">
+                        <h3>4. Chronology Event Register</h3>
+                        <table class="report-timeline-table">
+                            <thead>
+                                <tr>
+                                    <th>Timestamp</th>
+                                    <th>Event Category</th>
+                                    <th>Event Description</th>
+                                    <th>Severity</th>
+                                </tr>
+                            </thead>
+                            <tbody id="rep-timeline-body">
+                                <tr>
+                                    <td colspan="4" class="text-center">No case timeline loaded.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="report-section">
+                        <h3>5. Actionable Forensic Recommendations</h3>
+                        <ul class="report-bullets" id="rep-recommendations">
+                            <!-- Populated dynamically -->
+                        </ul>
+                    </div>
+
+                    <div class="report-signatures">
+                        <div class="sig-block">
+                            <div class="sig-line"></div>
+                            <span>Assigned Investigating Officer</span>
+                            <strong id="rep-sig-officer">Officer Jones</strong>
+                        </div>
+                        <div class="sig-block">
+                            <div class="sig-line"></div>
+                            <span>AI-Driven Force Validator</span>
+                            <strong>SECURE COMPLIANT CODE</strong>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SCREEN: CHAT -->
+            <section id="screen-chat" class="app-screen">
+                <div class="screen-header">
+                    <div>
+                        <h1 class="screen-title">Copilot AI Chat Assistant</h1>
+                        <p class="screen-subtitle">Ask questions about people, vehicles, or activities in the evidence logs</p>
+                    </div>
+                </div>
+
+                <div class="chat-container-layout">
+                    <!-- Left column: Chat log -->
+                    <div class="chat-log-panel card">
+                        <div class="chat-messages" id="chat-messages-container">
+                            <div class="message system-msg">
+                                <div class="msg-avatar"><i class="fa-solid fa-robot"></i></div>
+                                <div class="msg-bubble">
+                                    Hello, Investigator. I have indexed the speech transcripts, OCR overlays, and vision detections for this case. Ask me questions such as who entered the building or what vehicles were sighted.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="chat-input-bar">
+                            <input type="text" id="chat-query-input" placeholder="Query case files..." class="form-input">
+                            <button class="btn btn-primary" id="btn-send-chat"><i class="fa-solid fa-paper-plane"></i></button>
+                        </div>
+                    </div>
+
+                    <!-- Right column: Suggested Questions -->
+                    <div class="chat-suggestions-panel">
+                        <div class="card suggestions-card">
+                            <h3>Copilot Quick Queries</h3>
+                            <div class="suggestions-list">
+                                <button class="suggested-btn" data-query="Who entered the building after 10 PM?">
+                                    <i class="fa-solid fa-circle-question"></i> Who entered the building after 10 PM?
+                                </button>
+                                <button class="suggested-btn" data-query="Show every vehicle detected.">
+                                    <i class="fa-solid fa-circle-question"></i> Show every vehicle detected.
+                                </button>
+                                <button class="suggested-btn" data-query="List every suspicious activity.">
+                                    <i class="fa-solid fa-circle-question"></i> List every suspicious activity.
+                                </button>
+                                <button class="suggested-btn" data-query="Generate investigation summary.">
+                                    <i class="fa-solid fa-circle-question"></i> Generate investigation summary.
+                                </button>
+                                <button class="suggested-btn" data-query="Who carried a backpack?">
+                                    <i class="fa-solid fa-circle-question"></i> Who carried a backpack?
+                                </button>
+                                <button class="suggested-btn" data-query="Was a weapon detected?">
+                                    <i class="fa-solid fa-circle-question"></i> Was a weapon detected?
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <div class="card retrieved-evidence-card">
+                            <h3>Retrieved Source Citations</h3>
+                            <div class="citations-list" id="citations-container">
+                                <p class="placeholder-text">Ask a question to see matching source database segments.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SCREEN: ANALYTICS -->
+            <section id="screen-analytics" class="app-screen">
+                <div class="screen-header">
+                    <div>
+                        <h1 class="screen-title">Forensic Analytics Reports</h1>
+                        <p class="screen-subtitle">Comprehensive data breakdowns and distribution metrics charts</p>
+                    </div>
+                </div>
+                
+                <div class="analytics-panels-grid">
+                    <div class="card analytics-chart-card">
+                        <h3>Historical Evidence Detections</h3>
+                        <canvas id="chart-daily-investigations"></canvas>
+                    </div>
+                    <div class="card analytics-chart-card">
+                        <h3>Detections by Object Type</h3>
+                        <canvas id="chart-objects-detected"></canvas>
+                    </div>
+                    <div class="card analytics-chart-card">
+                        <h3>Average Confidence Scores</h3>
+                        <canvas id="chart-confidence-scores"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SCREEN: SETTINGS -->
+            <section id="screen-settings" class="app-screen">
+                <div class="screen-header">
+                    <div>
+                        <h1 class="screen-title">System Settings</h1>
+                        <p class="screen-subtitle">Manage cloud integration keys and local service configs</p>
+                    </div>
+                </div>
+                
+                <div class="settings-grid">
+                    <div class="card settings-card-block">
+                        <h3><i class="fa-brands fa-microsoft"></i> Azure AI Services Integration</h3>
+                        <div class="standard-form mt-15">
+                            <div class="form-group">
+                                <label>Azure Cognitive Endpoint</label>
+                                <input type="text" value="https://force-cognitive-us.cognitiveservices.azure.com/" class="form-input" disabled>
+                            </div>
+                            <div class="form-group">
+                                <label>Azure AI Keys (masked)</label>
+                                <input type="password" value="********************************" class="form-input" disabled>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card settings-card-block">
+                        <h3><i class="fa-solid fa-database"></i> Databricks Unity Connection</h3>
+                        <div class="standard-form mt-15">
+                            <div class="form-group">
+                                <label>Databricks Workspace URL</label>
+                                <input type="text" value="https://adb-45892.azuredatabricks.net" class="form-input" disabled>
+                            </div>
+                            <div class="form-group">
+                                <label>Spark Cluster ID</label>
+                                <input type="text" value="0628-124501-foyer451" class="form-input" disabled>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+    </div>
+    
+    <!-- AI-Driven Force UI Controller Logic -->
+    <script src="/static/js/api.js"></script>
+    <script src="/static/js/components.js"></script>
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
